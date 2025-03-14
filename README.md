@@ -23,18 +23,18 @@ Project delays often result from scope creep or rushed delivery towards the end 
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 <How Effective Cost Control Contributes to Success: >
-1.Prevents Financial Overruns: By monitoring and managing costs throughout the project, project managers can identify potential budget overruns before they become significant issues, reducing the risk of financial strain 
+ 1.Prevents Financial Overruns: By monitoring and managing costs throughout the project, project managers can identify potential budget overruns before they become significant issues, reducing the risk of financial strain 
  or the need to secure additional funding.
-2.Maintains Profitability: For software development firms, staying within the budget is directly linked to profitability.
-3.Ensures Resource Optimization: Proper cost control leads to efficient use of resources, meaning that time, talent, and infrastructure are allocated where they’re most needed without wastage.
-4.Reduces the Risk of Delays: Budget overruns often result in delays, whether due to the need for additional funding, reallocation of resources, or project reevaluation.
-5.Promotes Stakeholder Confidence: Clients and other stakeholders expect that the project will be completed within the agreed budget. 
+ 2.Maintains Profitability: For software development firms, staying within the budget is directly linked to profitability.
+ 3.Ensures Resource Optimization: Proper cost control leads to efficient use of resources, meaning that time, talent, and infrastructure are allocated where they’re most needed without wastage.
+ 4.Reduces the Risk of Delays: Budget overruns often result in delays, whether due to the need for additional funding, reallocation of resources, or project reevaluation.
+ 5.Promotes Stakeholder Confidence: Clients and other stakeholders expect that the project will be completed within the agreed budget. 
 <<Strategies to Prevent Budget Overruns:>>
-1.Define Clear Requirements and Scope: Ensure that the project scope is well-defined and agreed upon by all stakeholders from the beginning.
-2.Break Down the Project into Phases: Divide the project into smaller, manageable phases with clear deliverables and milestones.
-3.Track Costs and Progress Regularly: Regular monitoring is key to ensuring that the project stays within its budget. 
-4.Risk Management and Mitigation: Identify potential risks early on and factor them into the budget
-5.Avoid Overworking the Team 
+ 1.Define Clear Requirements and Scope: Ensure that the project scope is well-defined and agreed upon by all stakeholders from the beginning.
+ 2.Break Down the Project into Phases: Divide the project into smaller, manageable phases with clear deliverables and milestones.
+ 3.Track Costs and Progress Regularly: Regular monitoring is key to ensuring that the project stays within its budget. 
+ 4.Risk Management and Mitigation: Identify potential risks early on and factor them into the budget
+ 5.Avoid Overworking the Team 
 
 ## 3. Compare and contrast Agile and Wat
 erfall methodologies. What are the main advantages and disadvantages of each?
